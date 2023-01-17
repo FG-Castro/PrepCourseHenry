@@ -1,2 +1,3 @@
-# PrepCourseHenry
-Este es un repositorio de prueba del modulo 2
+Federico Castro
+
+Este es un proyecto de prueba de como crear u repositorio  y clonarlo desde github a la computadora
